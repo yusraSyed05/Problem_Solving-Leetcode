@@ -1,2 +1,3 @@
 # Problem_Solving-Leetcode
-A record of my daily problem solving journey 
+This repository is a daily record of my journey to improve in Data Structures and Algorithms
+
