@@ -1,3 +1,4 @@
-# Problem_Solving-Leetcode
-This repository is a daily record of my journey to improve in Data Structures and Algorithms
+| Problem no. | Problem | Difficulty |
+|-------------|---------|------------|
+| 3591        | [Check if any element has prime frequency ](https://leetcode.com/problems/check-if-any-element-has-prime-frequency/solutions/7043214/3591-check-if-any-element-has-prime-freq-wjdm) | Easy |
 
