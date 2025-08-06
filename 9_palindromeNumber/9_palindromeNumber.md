@@ -38,6 +38,11 @@ Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 
 Could you solve it **without converting the integer to a string**?
 
+## Intution 
+We want to check if a number is the same when reversed.
+Instead of reversing the whole number, we reverse only the last half (digit by digit) and compare it with the remaining part.
+If both parts are equal, the number is a palindrome.
+This also avoids converting the number to a string
 
 ## Approach
 
