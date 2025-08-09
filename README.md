@@ -1,7 +1,7 @@
 ### Basic Math
 | Problem no. | Problem | Difficulty |
 |-------------|---------|------------|
-| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | Medium ]
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | Medium |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | Easy |
 
 ### Hashing
