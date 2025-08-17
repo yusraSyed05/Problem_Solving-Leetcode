@@ -50,20 +50,20 @@ So, in a sorted and rotated array, the order can break only once (where the larg
 If we find that the order breaks more than once, then it cannot be a sorted and rotated array.
 
 ## Approach
--Go through the array and check where the order is broken
-that is, when nums[i] > nums[i+1]
+- Go through the array and check where the order is broken
+that is, when `nums[i] > nums[i+1]`
 
--Keep a counter of how many times this happens.
+- Keep a counter of how many times this happens.
 
--Also check the last element with the first one, because in rotation the last can be bigger than the first.
+- Also check the last element with the first one, because in rotation the last can be bigger than the first.
 
--If the counter is 0 or 1, then the array is sorted and rotated return true
+- If the counter is 0 or 1, then the array is sorted and rotated return true
 
--If the counter is more than 1, it means the array cannot be sorted and rotated return false
+- If the counter is more than 1, it means the array cannot be sorted and rotated return false
 
 ## Complexity
--Time complexity: O(n)
--Space complexity: O(1)
+-  Time complexity: O(n)   
+-  Space complexity: O(1)
 
 ## Constraints
 ```
