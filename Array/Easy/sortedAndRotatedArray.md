@@ -39,11 +39,11 @@ In a sorted array (non-decreasing order), every element is smaller than or equal
 When this array is rotated, most of the order still looks sorted.
 rotate `[1, 2, 3, 4, 5] → [3, 4, 5, 1, 2]`
 
--3 < 4 , 4 < 5 → looks sorted
+- 3 < 4 , 4 < 5 → looks sorted
 
--But 5 > 1 → the order is broken at this one place only
+- But 5 > 1 → the order is broken at this one place only
 
--Then 1 < 2 → sorted again
+- Then 1 < 2 → sorted again
 
 So, in a sorted and rotated array, the order can break only once (where the largest element is followed by the smallest).
 
