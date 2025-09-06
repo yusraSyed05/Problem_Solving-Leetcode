@@ -8,5 +8,6 @@
 ### Array 
 | Problem no. | Problem | Difficulty |
 |-------------|---------|------------|
+| 73 | [Set matrix zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | Medium |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | Medium |
 | 1752 | [Check if Array is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) | Easy |
